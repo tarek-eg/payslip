@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "jspdf": "^2.3.0",
-    "next": "10.0.5",
+    "next": "11.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "tailwind-react-ui": "^0.8.1"
